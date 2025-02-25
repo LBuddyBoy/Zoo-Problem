@@ -11,7 +11,8 @@ body {
 }
 
 #animals a {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: #ddc3c3d0;
 }
 
 #animals h2 {
@@ -33,6 +34,11 @@ body {
 #animals p {
   color: #999393;
   font-size: 16.5px;
+}
+
+#animals img {
+  height: 100px;
+  width: 150px;
 }
 
 #footer p {
