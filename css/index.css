@@ -3,11 +3,16 @@ body {
 }
 
 #header h1 {
-    color: white;
+  color: white;
 }
 
 #header p {
   color: #e4e2e2cb;
+}
+
+#animals a {
+  text-decoration: underline;
+  text-decoration-color: #ddc3c3d0;
 }
 
 #animals h2 {
@@ -31,10 +36,17 @@ body {
   font-size: 16.5px;
 }
 
+#animals img {
+  height: 100px;
+  width: 150px;
+}
+
 #footer p {
   color: #dfe3ee;
 }
 
 #copyright p {
   color: #e0e7ff;
+  text-align: center;
+  background-color: #413e3e9d;
 }
