@@ -1,0 +1,40 @@
+body {
+  background-color: #000000ee;
+}
+
+#header h1 {
+    color: white;
+}
+
+#header p {
+  color: #e4e2e2cb;
+}
+
+#animals h2 {
+  color: #ddc3c3d0;
+  font-size: 25px;
+}
+
+#animals img[class="bear"] {
+  height: 100px;
+  width: 115px;
+  border-radius: 75%;
+}
+
+#animals li {
+  color: #ffe0e0;
+  font-size: 20px;
+}
+
+#animals p {
+  color: #999393;
+  font-size: 16.5px;
+}
+
+#footer p {
+  color: #dfe3ee;
+}
+
+#copyright p {
+  color: #e0e7ff;
+}
