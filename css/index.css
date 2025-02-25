@@ -4,10 +4,12 @@ body {
 
 #header h1 {
   color: white;
+  font-size: 50px;
 }
 
 #header p {
   color: #e4e2e2cb;
+  font-size: 17px;
 }
 
 #animals a {
@@ -18,12 +20,6 @@ body {
 #animals h2 {
   color: #ddc3c3d0;
   font-size: 25px;
-}
-
-#animals img[class="bear"] {
-  height: 100px;
-  width: 115px;
-  border-radius: 75%;
 }
 
 #animals li {
